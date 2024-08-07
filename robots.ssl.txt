@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joyous-calls-505824.framer.app/sitemap.xml
